@@ -14,10 +14,10 @@
 		"node-theseus" : "./bin/node-theseus"
 	},
 	"dependencies" : {
-		"fondue" : "0.6.x",
-		"ws" : "0.4.x",
-		"minimatch" : "0.2.x",
-		"source-map-support" : "0.2.x"
+		"fondue-es6" : "~0.7.0",
+		"ws" : "~1.0.1",
+		"minimatch" : "~0.2.14",
+		"source-map-support" : "~0.4.0"
 	},
 	"keywords" : [
 		"source",
